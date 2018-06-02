@@ -24,25 +24,21 @@
 	SOFTWARE.
 */
 
-/* jshint unused:false */
 /* global describe, it, before, after */
 
 "use strict" ;
 
 
 
-//var kungFig = require( '../lib/kungFig.js' ) ;
 var DynamicInstance = require( '..' ) ;
 
-var string = require( 'string-kit' ) ;
-var doormen = require( 'doormen' ) ;
-var expect = require( 'expect.js' ) ;
 
 
-
+/*
 function deb( v ) {
 	console.log( string.inspect( { style: 'color' , depth: 15 } , v ) ) ;
 }
+*/
 
 
 
