@@ -1,6 +1,6 @@
 {
   "name": "kung-fig-dynamic-instance",
-  "version": "0.42.3",
+  "version": "0.42.4",
   "engines": {
     "node": ">=6.0.0"
   },
@@ -10,7 +10,7 @@
     "test": "test"
   },
   "dependencies": {
-    "kung-fig-dynamic": "^0.41.11"
+    "kung-fig-dynamic": "^0.41.13"
   },
   "devDependencies": {},
   "scripts": {
@@ -41,7 +41,7 @@
     "title": "Kung Fig Dynamic Instance",
     "years": [
       2015,
-      2018
+      2020
     ],
     "owner": "Cédric Ronvel"
   }
