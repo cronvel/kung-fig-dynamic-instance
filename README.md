@@ -1,5 +1,5 @@
 
-# Kung-Fig Ref
+# Kung-Fig Dynamic Instance
 
-Ref objects (variable) for [Kung Fig](https://github.com/cronvel/kung-fig).
+Dynamic instances for [Kung Fig](https://github.com/cronvel/kung-fig).
 
