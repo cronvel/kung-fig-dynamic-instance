@@ -1,6 +1,6 @@
 {
   "name": "kung-fig-dynamic-instance",
-  "version": "0.43.0",
+  "version": "0.44.0",
   "engines": {
     "node": ">=6.0.0"
   },
@@ -10,9 +10,8 @@
     "test": "test"
   },
   "dependencies": {
-    "kung-fig-dynamic": "^0.41.13"
+    "kung-fig-dynamic": "^0.42.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "tea-time -R dot"
   },
